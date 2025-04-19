@@ -1,0 +1,3 @@
+GitPython
+textblob
+matplotlib
